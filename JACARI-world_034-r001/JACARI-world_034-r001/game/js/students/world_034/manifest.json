@@ -1,0 +1,15 @@
+{
+  "id": "world_034",
+  "name": "JACARI — Starter Project",
+  "author": "Teacher starter for JACARI",
+  "description": "Recover the repair core, clear two turrets and reach the exit.",
+  "iconColor": "yellow",
+  "position": {
+    "x": 1024,
+    "y": 192
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_034_level",
+  "rewardId": "key_world_034"
+}
